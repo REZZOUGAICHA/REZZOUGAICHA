@@ -3,9 +3,6 @@
 4th-year **Software Engineering student** at **ESI Algiers**, passionate about web development, AI, and IoT. Always exploring new technologies and eager to contribute to impactful projects.
 
 ---
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=REZZOUGAICHA&show_icons=true&theme=radical)  
----
 
 
 ## 🚀 Projects  
