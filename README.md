@@ -13,7 +13,7 @@
 
 ---
 
-## 🔭 Current Projects
+## Current Projects
 🔗 **Blockchain-based Platform** – Building a secure transaction system using blockchain technology.
 
 ---
