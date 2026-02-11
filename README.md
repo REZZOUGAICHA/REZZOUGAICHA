@@ -1,6 +1,6 @@
 # 👋 Salam, I'm Aïcha Rezzoug  
 
-5th-year **Software Engineering student** at **ESI Algiers**, passionate about web development, AI, and IoT. Always exploring new technologies and eager to contribute to impactful projects.
+5th-year **Software Engineering student** at **ESI Algiers**, passionate about web development and AI. Always exploring new technologies and eager to contribute to impactful projects.
 
 ---
 
